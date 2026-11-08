@@ -1,40 +1,125 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="icon-512.png" width="128" />
-    <img src="logo-horizontal.png" alt="FactSpeed — facturation & gestion client" width="420" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile/icon-512.png" width="110" />
+    <img src="profile/logo-horizontal.png" alt="FactSpeed — facturation & gestion client" width="380" />
   </picture>
 
   <br />
 
-  **Logiciel de facturation & gestion commerciale pour les entreprises algériennes**
-  Devis · Factures DGI (TVA & timbre LF 2025) · Relances · Caisse POS · Achats & stock · RH/paie CNAS · Multi-devises · العربية RTL
+  ### Le logiciel de facturation pensé pour les entreprises algériennes
+
+  Devis · Factures conformes DGI · Relances · Caisse POS · Stock · RH/paie CNAS · Comptabilité
+  **Vos données restent sur votre ordinateur. Aucun abonnement cloud obligatoire.**
 
   <br />
 
-  ![Version](https://img.shields.io/badge/version-10.14.30-2F5FE0?logo=github&logoColor=white)
-  ![Plateformes](https://img.shields.io/badge/Windows-macOS-111827?logo=windows&logoColor=white)
-  ![Langues](https://img.shields.io/badge/FR-العربية%20RTL-00B27A)
-  ![Données](https://img.shields.io/badge/données-100%20%25%20locales-003B57?logo=sqlite&logoColor=white)
-  ![Essai](https://img.shields.io/badge/essai-10%20jours%20gratuit-D97706)
+  ![Version](https://img.shields.io/badge/version-10.14.32-2F5FE0)
+  ![Plateformes](https://img.shields.io/badge/Windows%2010%2B-macOS%2012%2B-111827)
+  ![Langues](https://img.shields.io/badge/Français-العربية%20RTL-00B27A)
+  ![Données](https://img.shields.io/badge/100%20%25%20local-sans%20cloud-003B57)
+  ![Essai](https://img.shields.io/badge/essai-10%20jours%20sans%20CB-D97706)
 
   <br />
 
-  [🌐 Site officiel](https://factspeed.com) · [⬇️ Télécharger](https://factspeed.com/telecharger) · [💰 Tarifs](https://factspeed.com/tarifs) · [📦 Installateurs](https://github.com/derouicheoussama/factspeed-releases) · [💬 WhatsApp +213 770 600 957](https://wa.me/213770600957)
+  [🌐 Site officiel](https://factspeed.com) · [⬇️ Télécharger l'essai](https://factspeed.com/telecharger) · [💰 Tarifs](https://factspeed.com/tarifs) · [📦 Installateurs](https://github.com/derouicheoussama/factspeed-releases) · [💬 WhatsApp 7 j/7](https://wa.me/213770600957)
 
-  <img src="hero.png" alt="FactSpeed — tableau de bord" width="100%" />
+  <br />
+
+  <img src="profile/hero.png" alt="FactSpeed — site officiel" width="100%" />
 </div>
 
 ---
 
-## 🚀 Tout le commerce, un seul logiciel
+## 🧾 Qu'est-ce que FactSpeed ?
 
-| | | |
+**FactSpeed** est un logiciel de gestion commerciale complet, conçu en Algérie
+pour les commerçants, artisans, prestataires et PME. Il remplace le trio
+Excel + Word + carnet : vos **devis**, **factures**, **clients**, **stock**,
+**caisse** et **paie** vivent dans une seule application rapide, installée sur
+votre ordinateur — vos données commerciales ne quittent jamais votre machine.
+
+Il est développé et maintenu par **Derouiche Oussama — ∞ Infinity Coder**
+(Oran), avec un support direct par WhatsApp 7 j/7 : vous parlez au développeur,
+pas à un robot.
+
+## 📸 Le logiciel en images
+
+| | |
+|---|---|
+| <img src="captures/dashboard.png" width="100%" alt="Tableau de bord" /><br />**Tableau de bord** — CA, encaissé, impayés, alertes crédit & stock, meilleurs clients | <img src="captures/facture.png" width="100%" alt="Facture conforme" /><br />**Facture conforme** — TVA par taux, droit de timbre automatique, montant en lettres |
+| <img src="captures/g50.png" width="100%" alt="G50" /><br />**G50 pré-rempli** — TVA collectée par taux, export Excel | <img src="captures/impayes.png" width="100%" alt="Impayés" /><br />**Impayés & relances** — suivi par ancienneté, relances email imprimables |
+
+## 🧩 Les modules, en détail
+
+### 🧾 Facturation & documents
+Devis, proformas, factures, bons de livraison, avoirs, bons de commande,
+acomptes — avec numérotation automatique, brouillon → validé, conversions en
+1 clic (devis → facture → avoir/BL), signatures client, échéanciers sans frais
+et 12 modèles imprimables en français et en arabe RTL.
+
+### 👥 Clients & relances
+Fiches complètes (RC, NIF, NIS, AI), soldes en temps réel, plafonds de crédit
+avec alertes, historique complet, **relances email automatiques** et suivi des
+impayés par ancienneté (30/60/90 jours).
+
+### 🛒 Caisse POS
+Vente rapide au comptoir : douchette code-barres (bip sonore), ticket de caisse,
+clôture Z, mode kiosque pour écran tactile, paiements multiples (espèces,
+facilités), client comptoir.
+
+### 📦 Achats, stock & dépenses
+Multi-dépôts avec transferts, mouvements automatiques liés aux factures,
+inventaire, seuils d'alerte, fournisseurs, bons de commande, dépenses et
+charges avec pièces jointes.
+
+### 🧑‍💼 RH & paie
+Employés, bulletins de paie conformes (**CNAS/DAS**), congés, absences, prêts,
+échelonnement, documents officiels — pensé pour le droit du travail algérien.
+
+### 📊 Comptabilité & rapports
+Journal des ventes/achats, compte de résultat, bilan, TVA collectée
+(**G50 pré-rempli**), chiffre d'affaires par client/produit/période, rapports
+prévisionnels — tout exportable en **Excel**.
+
+## 🏛 Conformité DGI — la spécialité de FactSpeed
+
+- **TVA 19 % / 9 % / 0 %** calculée ligne par ligne, par taux
+- **Droit de timbre** appliqué automatiquement selon le **barème LF 2025**
+  (paiement en espèces) — avec le **montant en toutes lettres** imprimé
+- **G50 pré-remplie** : TVA collectée par taux, base HT, déductions — export Excel
+- Mentions obligatoires imprimées : **RC, NIF, NIS, AI**, devise DZD,
+  montants au format « 1 234 567,00 DA »
+- Numérotation officielle : FAC-2026-0001, DEV-2026-0001… (préfixes paramétrables)
+
+## 🔒 Vos données restent chez vous
+
+- **100 % local** : la base de données vit sur VOTRE disque. Internet n'est
+  requis que pour les mises à jour et l'activation de la licence.
+- **Sauvegardes chiffrées** automatiques et programmées, avec restauration vérifiée
+- Licences signées **Ed25519**, liées à l'ordinateur — **anti-clonage** :
+  une licence copiée vers un autre PC est détectée et bloquée
+- Aucune télémétrie, aucun envoi de données clients — honnêteté par conception
+
+## 💻 Configuration requise
+
+| | Windows | macOS |
 |---|---|---|
-| 🧾 **Facturation conforme DGI** — TVA 19/9/0 %, droit de timbre (barème LF 2025), journal **G50** exportable Excel | 👥 **Clients & relances** — soldes, relances email, plafonds crédit, historique complet | 🛒 **Caisse POS** — douchette code-barres, ticket, clôture Z, mode kiosque |
-| 📦 **Achats & stock multi-dépôts** — mouvements, inventaire, alertes de minimum | 🧑‍💼 **RH & paie** — employés, bulletins **CNAS/DAS**, congés, prêts | 🌍 **Multi-sociétés & multi-devises** — العربية RTL, 12 modèles FR/AR |
-| 🔁 **Conversions 1 clic** — devis → facture → avoir / bon de livraison | 📊 **Comptabilité & rapports** — journal achats/ventes, exercices, exports Excel | 💾 **Sauvegardes chiffrées** — auto + programmées, restauration vérifiée |
+| Système | Windows 10 ou 11 (64 bits) | macOS 12 Monterey ou plus récent |
+| Mémoire | 4 Go (8 Go recommandé) | 4 Go (8 Go recommandé) |
+| Disque | 500 Mo + sauvegardes | 500 Mo + sauvegardes |
+| Internet | À l'installation et pour les mises à jour | Idem |
+| Imprimante | A4 / ticket (POS) — toute imprimante Windows/macOS | Idem |
 
-## 💰 Tarifs (simples, sans abonnement caché)
+## 🚀 Installation en 3 étapes
+
+1. **Téléchargez l'essai gratuit** (10 jours complets, sans carte bancaire) depuis
+   [factspeed.com/telecharger](https://factspeed.com/telecharger)
+2. **L'assistant de bienvenue** crée votre entreprise, votre exercice fiscal et
+   votre compte administrateur en 2 minutes (wizard FR ou AR)
+3. **Travaillez** — à la fin de l'essai, vos données sont conservées : il suffit
+   d'activer une licence (clé envoyée par email après validation de la commande)
+
+## 💰 Tarifs simples
 
 | Offre | Prix | Postes | Pour qui |
 |---|---|---|---|
@@ -44,21 +129,38 @@
 | **Business** | 24 000 DA/an/poste | illimité | Équipes & succursales |
 | ♾ **À vie** | dès 36 000 DA | selon pack | Payer une fois, garder pour toujours |
 
-<div align="center"><b>👉 Commence l'essai gratuit : <a href="https://factspeed.com/telecharger">factspeed.com/telecharger</a></b></div>
+## ❓ Questions fréquentes
 
-## 🔐 Sécurité & confiance
+**Mes données partent sur Internet ?**
+Non. Tout est stocké sur votre disque dur. Internet sert uniquement à
+l'activation, aux mises à jour et aux relances email que VOUS décidez d'envoyer.
 
-- Licences signées **Ed25519** liées à l'ordinateur — une licence = exactement le nombre de postes payé
-- **Anti-clonage** : un état de licence copié vers un autre PC est détecté et bloqué
-- Mises à jour automatiques vérifiées (SHA-512 + version minimum), **fonctionne 100 % hors ligne** après installation
-- Éditeur identifié : **Derouiche Oussama — ∞ Infinity Coder** (Oran, Algérie) — support WhatsApp 7 j/7
+**Et si mon PC tombe en panne ?**
+Les sauvegardes automatiques chiffrées se restaurent en un clic sur un autre
+ordinateur (votre licence suit votre code machine — le support vous accompagne).
+
+**Je peux l'utiliser sur 2 ordinateurs ?**
+Oui, avec le pack **Duo** (2 postes) ou **Business** (illimité, au poste).
+Une licence copiée d'un PC à l'autre est détectée et bloquée.
+
+**Les mises à jour sont payantes ?**
+Non — incluses dans l'abonnement annuel. La version **à vie** inclut
+également les mises à jour, pour toujours.
+
+**C'est conforme à la loi de finances en vigueur ?**
+Oui — TVA, droit de timbre (barème LF 2025), G50 et mentions obligatoires
+sont appliqués automatiquement, et les barèmes se mettent à jour sans
+réinstaller le logiciel à chaque loi de finances.
+
+## 🆘 Support & contact
+
+- 💬 **WhatsApp +213 770 600 957** — 7 j/7, vous parlez au développeur
+- 📧 **hi@factspeed.com**
+- 🌐 **[factspeed.com](https://factspeed.com)** — guides, tarifs, téléchargement
 
 ---
 
 <div align="center">
-  <a href="https://factspeed.com/telecharger"><b>⬇️ Télécharger l'essai gratuit</b></a> ·
-  <a href="https://factspeed.com/tarifs"><b>💰 Voir les tarifs</b></a> ·
-  <a href="https://wa.me/213770600957"><b>💬 Parler au support</b></a>
-  <br /><br />
-  <sub>Éditeur : **Derouiche Oussama** — [∞ Infinity Coder](https://github.com/derouicheoussama) · Organisation **FactSpeed**, Oran, Algérie · chaque projet signé, chaque client accompagné.</sub>
+  <sub>© 2026 Derouiche Oussama — ∞ Infinity Coder (Oran, Algérie).
+  Chaque projet signé, chaque client accompagné.</sub>
 </div>
