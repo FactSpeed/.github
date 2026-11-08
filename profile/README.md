@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/icon-512.png" width="110" />
-    <img src="profile/logo-horizontal.png" alt="FactSpeed — facturation & gestion client" width="380" />
+    <source media="(prefers-color-scheme: dark)" srcset="../icon-512.png" width="110" />
+    <img src="../logo-horizontal.png" alt="FactSpeed — facturation & gestion client" width="380" />
   </picture>
 
   <br />
@@ -25,7 +25,7 @@
 
   <br />
 
-  <img src="profile/hero.png" alt="FactSpeed — site officiel" width="100%" />
+  <img src="../hero.png" alt="FactSpeed — site officiel" width="100%" />
 </div>
 
 ---
@@ -46,8 +46,8 @@ pas à un robot.
 
 | | |
 |---|---|
-| <img src="captures/dashboard.png" width="100%" alt="Tableau de bord" /><br />**Tableau de bord** — CA, encaissé, impayés, alertes crédit & stock, meilleurs clients | <img src="captures/facture.png" width="100%" alt="Facture conforme" /><br />**Facture conforme** — TVA par taux, droit de timbre automatique, montant en lettres |
-| <img src="captures/g50.png" width="100%" alt="G50" /><br />**G50 pré-rempli** — TVA collectée par taux, export Excel | <img src="captures/impayes.png" width="100%" alt="Impayés" /><br />**Impayés & relances** — suivi par ancienneté, relances email imprimables |
+| <img src="../captures/dashboard.png" width="100%" alt="Tableau de bord" /><br />**Tableau de bord** — CA, encaissé, impayés, alertes crédit & stock, meilleurs clients | <img src="../captures/facture.png" width="100%" alt="Facture conforme" /><br />**Facture conforme** — TVA par taux, droit de timbre automatique, montant en lettres |
+| <img src="../captures/g50.png" width="100%" alt="G50" /><br />**G50 pré-rempli** — TVA collectée par taux, export Excel | <img src="../captures/impayes.png" width="100%" alt="Impayés" /><br />**Impayés & relances** — suivi par ancienneté, relances email imprimables |
 
 ## 🧩 Les modules, en détail
 
