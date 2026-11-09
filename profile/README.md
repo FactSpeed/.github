@@ -15,7 +15,7 @@
 
   ![Version](https://img.shields.io/badge/version-10.14.32-2F5FE0)
   ![Plateformes](https://img.shields.io/badge/Windows%2010%2B-macOS%2012%2B-111827)
-  ![Langues](https://img.shields.io/badge/Français-العربية%20RTL-00B27A)
+  ![Langues](https://img.shields.io/badge/Langues-Fran%C3%A7ais%20%2B%20Arabe%20RTL-00B27A)
   ![Données](https://img.shields.io/badge/100%20%25%20local-sans%20cloud-003B57)
   ![Essai](https://img.shields.io/badge/essai-10%20jours%20sans%20CB-D97706)
 
