@@ -21,7 +21,7 @@
 
   <br />
 
-  [🌐 Site officiel](https://factspeed.com) · [⬇️ Télécharger l'essai](https://factspeed.com/telecharger) · [💰 Tarifs](https://factspeed.com/tarifs) · [📦 Installateurs](https://github.com/derouicheoussama/factspeed-releases) · [🆘 Support & suggestions](https://github.com/FactSpeed/factspeed-support) · [💬 WhatsApp 7 j/7](https://wa.me/213770600957)
+  [🌐 Site officiel](https://factspeed.com) · [⬇️ Télécharger l'essai](https://factspeed.com/telecharger) · [💰 Tarifs](https://factspeed.com/tarifs) · [📦 Installateurs](https://github.com/FactSpeed/factspeed-releases) · [🆘 Support & suggestions](https://github.com/FactSpeed/factspeed-support) · [💬 WhatsApp 7 j/7](https://wa.me/213770600957)
 
   <br />
 
@@ -58,7 +58,7 @@ pas à un robot.
 | **10.14.30** | ♾ **Offre à vie** visible dans la commande intégrée (Pro 36 000 · Duo 60 000 · Business 72 000 DA) |
 | **10.14.29** | 🔐 Anti-clonage renforcé : une licence copiée vers un autre PC est bloquée immédiatement |
 
-📖 Historique complet : [installateurs & notes de version](https://github.com/derouicheoussama/factspeed-releases/releases)
+📖 Historique complet : [installateurs & notes de version](https://github.com/FactSpeed/factspeed-releases/releases)
 
 ## 🧩 Les modules, en détail
 
