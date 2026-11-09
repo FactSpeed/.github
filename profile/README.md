@@ -21,7 +21,7 @@
 
   <br />
 
-  [🌐 Site officiel](https://factspeed.com) · [⬇️ Télécharger l'essai](https://factspeed.com/telecharger) · [💰 Tarifs](https://factspeed.com/tarifs) · [📦 Installateurs](https://github.com/derouicheoussama/factspeed-releases) · [💬 WhatsApp 7 j/7](https://wa.me/213770600957)
+  [🌐 Site officiel](https://factspeed.com) · [⬇️ Télécharger l'essai](https://factspeed.com/telecharger) · [💰 Tarifs](https://factspeed.com/tarifs) · [📦 Installateurs](https://github.com/derouicheoussama/factspeed-releases) · [🆘 Support & suggestions](https://github.com/FactSpeed/factspeed-support) · [💬 WhatsApp 7 j/7](https://wa.me/213770600957)
 
   <br />
 
@@ -48,6 +48,17 @@ pas à un robot.
 |---|---|
 | <img src="../captures/dashboard.png" width="100%" alt="Tableau de bord" /><br />**Tableau de bord** — CA, encaissé, impayés, alertes crédit & stock, meilleurs clients | <img src="../captures/facture.png" width="100%" alt="Facture conforme" /><br />**Facture conforme** — TVA par taux, droit de timbre automatique, montant en lettres |
 | <img src="../captures/g50.png" width="100%" alt="G50" /><br />**G50 pré-rempli** — TVA collectée par taux, export Excel | <img src="../captures/impayes.png" width="100%" alt="Impayés" /><br />**Impayés & relances** — suivi par ancienneté, relances email imprimables |
+
+## 🆕 Dernières nouveautés
+
+| Version | Nouveauté |
+|---|---|
+| **10.14.32** | 🎨 Palette du dock : **10 teintes authentiques nommées** + aperçu en direct |
+| **10.14.31** | ⏳ **Barre de progression** pendant l'envoi de la commande (étapes réelles) |
+| **10.14.30** | ♾ **Offre à vie** visible dans la commande intégrée (Pro 36 000 · Duo 60 000 · Business 72 000 DA) |
+| **10.14.29** | 🔐 Anti-clonage renforcé : une licence copiée vers un autre PC est bloquée immédiatement |
+
+📖 Historique complet : [installateurs & notes de version](https://github.com/derouicheoussama/factspeed-releases/releases)
 
 ## 🧩 Les modules, en détail
 
@@ -157,6 +168,7 @@ réinstaller le logiciel à chaque loi de finances.
 - 💬 **WhatsApp +213 770 600 957** — 7 j/7, vous parlez au développeur
 - 📧 **hi@factspeed.com**
 - 🌐 **[factspeed.com](https://factspeed.com)** — guides, tarifs, téléchargement
+- 🐛 **[Signaler un bug / suggérer une idée](https://github.com/FactSpeed/factspeed-support/issues)** — canal public suivi
 
 ---
 
