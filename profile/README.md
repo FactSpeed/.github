@@ -15,13 +15,13 @@
 
   ![Version](https://img.shields.io/badge/version-10.14.32-2F5FE0)
   ![Plateformes](https://img.shields.io/badge/Windows%2010%2B-macOS%2012%2B-111827)
-  ![Langues](https://img.shields.io/badge/Langues-Fran%C3%A7ais%20%2B%20Arabe%20RTL-00B27A)
+  ![Langues](https://img.shields.io/badge/Français-العربية%20RTL-00B27A)
   ![Données](https://img.shields.io/badge/100%20%25%20local-sans%20cloud-003B57)
   ![Essai](https://img.shields.io/badge/essai-10%20jours%20sans%20CB-D97706)
 
   <br />
 
-  [🌐 Site officiel](https://factspeed.com) · [⬇️ Télécharger l'essai](https://factspeed.com/telecharger) · [💰 Tarifs](https://factspeed.com/tarifs) · [📦 Installateurs](https://github.com/FactSpeed/factspeed-releases) · [🆘 Support & suggestions](https://github.com/FactSpeed/factspeed-support) · [💬 WhatsApp 7 j/7](https://wa.me/213770600957)
+  [🌐 Site officiel](https://factspeed.com) · [⬇️ Télécharger l'essai](https://factspeed.com/#dls) · [💰 Tarifs](https://factspeed.com/#billing-preview) · [📦 Installateurs](https://github.com/derouicheoussama/factspeed-releases) · [🆘 Support & suggestions](https://github.com/FactSpeed/factspeed-support) · [💬 WhatsApp 7 j/7](https://wa.me/213770600957)
 
   <br />
 
@@ -58,7 +58,7 @@ pas à un robot.
 | **10.14.30** | ♾ **Offre à vie** visible dans la commande intégrée (Pro 36 000 · Duo 60 000 · Business 72 000 DA) |
 | **10.14.29** | 🔐 Anti-clonage renforcé : une licence copiée vers un autre PC est bloquée immédiatement |
 
-📖 Historique complet : [installateurs & notes de version](https://github.com/FactSpeed/factspeed-releases/releases)
+📖 Historique complet : [installateurs & notes de version](https://github.com/derouicheoussama/factspeed-releases/releases)
 
 ## 🧩 Les modules, en détail
 
@@ -124,7 +124,7 @@ prévisionnels — tout exportable en **Excel**.
 ## 🚀 Installation en 3 étapes
 
 1. **Téléchargez l'essai gratuit** (10 jours complets, sans carte bancaire) depuis
-   [factspeed.com/telecharger](https://factspeed.com/telecharger)
+   [factspeed.com/telecharger](https://factspeed.com/#dls)
 2. **L'assistant de bienvenue** crée votre entreprise, votre exercice fiscal et
    votre compte administrateur en 2 minutes (wizard FR ou AR)
 3. **Travaillez** — à la fin de l'essai, vos données sont conservées : il suffit
