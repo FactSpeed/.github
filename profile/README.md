@@ -13,7 +13,7 @@
 
   <br />
 
-  ![Version](https://img.shields.io/badge/version-10.14.32-2F5FE0)
+  ![Version](https://img.shields.io/badge/version-10.14.38-2F5FE0)
   ![Plateformes](https://img.shields.io/badge/Windows%2010%2B-macOS%2012%2B-111827)
   ![Langues](https://img.shields.io/badge/Français-العربية%20RTL-00B27A)
   ![Données](https://img.shields.io/badge/100%20%25%20local-sans%20cloud-003B57)
@@ -46,17 +46,20 @@ pas à un robot.
 
 | | |
 |---|---|
-| <img src="../captures/dashboard.png" width="100%" alt="Tableau de bord" /><br />**Tableau de bord** — CA, encaissé, impayés, alertes crédit & stock, meilleurs clients | <img src="../captures/facture.png" width="100%" alt="Facture conforme" /><br />**Facture conforme** — TVA par taux, droit de timbre automatique, montant en lettres |
-| <img src="../captures/g50.png" width="100%" alt="G50" /><br />**G50 pré-rempli** — TVA collectée par taux, export Excel | <img src="../captures/impayes.png" width="100%" alt="Impayés" /><br />**Impayés & relances** — suivi par ancienneté, relances email imprimables |
+| <img src="../captures/dashboard.png" width="100%" alt="Tableau de bord" /><br />**Tableau de bord** — CA, encaissé, impayés, alertes crédit & stock, meilleurs clients | <img src="../captures/factures.png" width="100%" alt="Factures" /><br />**Factures** — filtres par type, statuts, recherche instantanée, conversions en 1 clic |
+| <img src="../captures/clients.png" width="100%" alt="Clients" /><br />**Clients** — soldes, plafonds de crédit, historique complet, export Excel | <img src="../captures/caisse.png" width="100%" alt="Caisse POS" /><br />**Caisse POS** — douchette code-barres, ticket, clôture Z, mode kiosque |
 
 ## 🆕 Dernières nouveautés
 
 | Version | Nouveauté |
 |---|---|
-| **10.14.32** | 🎨 Palette du dock : **10 teintes authentiques nommées** + aperçu en direct |
+| **10.14.38** | 🖥 **Fenêtre réduite** : plus aucun texte écrasé ni chevauchement (contrôle automatique aux 3 largeurs d'écran) |
+| **10.14.36** | 📄 **Page À propos repensée** : 3 cartes équilibrées + WhatsApp mis en avant |
+| **10.14.33** | 🔑 **Page Licence** : QR code machine en carte dédiée (commande depuis un téléphone) |
+| **10.14.32** | 🎨 **Palette du dock** : 10 teintes authentiques nommées + aperçu en direct |
 | **10.14.31** | ⏳ **Barre de progression** pendant l'envoi de la commande (étapes réelles) |
 | **10.14.30** | ♾ **Offre à vie** visible dans la commande intégrée (Pro 36 000 · Duo 60 000 · Business 72 000 DA) |
-| **10.14.29** | 🔐 Anti-clonage renforcé : une licence copiée vers un autre PC est bloquée immédiatement |
+| **10.14.29** | 🔐 **Anti-clonage renforcé** : une licence copiée vers un autre PC est bloquée immédiatement |
 
 📖 Historique complet : [installateurs & notes de version](https://github.com/FactSpeed/factspeed-releases/releases)
 
