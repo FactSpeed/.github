@@ -114,7 +114,7 @@ prévisionnels — tout exportable en **Excel**.
 ## 🏛 Conformité DGI — la spécialité de FactSpeed
 
 - **TVA 19 % / 9 % / 0 %** calculée ligne par ligne, par taux
-- **Droit de timbre** appliqué automatiquement selon le **barème LF 2025**
+- **Droit de timbre** appliqué automatiquement selon le **barème LF 2026**
   (paiement en espèces) — avec le **montant en toutes lettres** imprimé
 - **G50 pré-remplie** : TVA collectée par taux, base HT, déductions — export Excel
 - Mentions obligatoires imprimées : **RC, NIF, NIS, AI**, devise DZD,
@@ -178,14 +178,14 @@ Non — incluses dans l'abonnement annuel. La version **à vie** inclut
 également les mises à jour, pour toujours.
 
 **C'est conforme à la loi de finances en vigueur ?**
-Oui — TVA, droit de timbre (barème LF 2025), G50 et mentions obligatoires
+Oui — TVA, droit de timbre (barème LF 2026), G50 et mentions obligatoires
 sont appliqués automatiquement, et les barèmes se mettent à jour sans
 réinstaller le logiciel à chaque loi de finances.
 
 ## 🆘 Support & contact
 
 - 💬 **WhatsApp +213 770 600 957** — 7 j/7, vous parlez au développeur
-- 📧 **hi@factspeed.com**
+- 📧 **contact@factspeed.com**
 - 🌐 **[factspeed.com](https://factspeed.com)** — guides, tarifs, téléchargement
 - 🐛 **[Signaler un bug / suggérer une idée](https://github.com/FactSpeed/factspeed-support/issues)** — canal public suivi
 
