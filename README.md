@@ -13,7 +13,7 @@
 
   <br />
 
-  ![Version](https://img.shields.io/badge/version-10.14.40-2F5FE0)
+  ![Version](https://img.shields.io/badge/version-10.14.44-2F5FE0)
   ![Plateformes](https://img.shields.io/badge/Windows%2010%2B-macOS%2012%2B-111827)
   ![Langues](https://img.shields.io/badge/Français-العربية%20RTL-00B27A)
   ![Données](https://img.shields.io/badge/100%20%25%20local-sans%20cloud-003B57)
@@ -68,12 +68,13 @@ pas à un robot.
 
 | Version | Nouveauté |
 |---|---|
-| **10.14.38** | 🖥 **Fenêtre réduite** : plus aucun texte écrasé ni chevauchement (contrôle automatique aux 3 largeurs d'écran) |
-| **10.14.36** | 📄 **Page À propos repensée** : 3 cartes équilibrées + WhatsApp mis en avant |
-| **10.14.33** | 🔑 **Page Licence** : QR code machine en carte dédiée (commande depuis un téléphone) |
-| **10.14.32** | 🎨 **Palette du dock** : 10 teintes authentiques nommées + aperçu en direct |
-| **10.14.31** | ⏳ **Barre de progression** pendant l'envoi de la commande (étapes réelles) |
-| **10.14.30** | ♾ **Offre à vie** visible dans la commande intégrée (Pro 36 000 · Duo 60 000 · Business 72 000 DA) |
+| **10.14.44** | 🪟 **Fenêtre Licence harmonisée** : même design que la page complète |
+| **10.14.43** | 🧾 **Page Licence harmonisée** : carte de statut à liseré (style Fluent) |
+| **10.14.42** | 🔔 **Notification Windows** à chaque nouvelle version (centre de notifications, clic = suivre) |
+| **10.14.41** | 🔐 **Jeton de licence signé** vérifié localement + contrôle toutes les heures |
+| **10.14.40** | 🛒 **Suivi de commande** : le message « en attente » disparaît dès l'activation |
+| **10.14.39** | ⚡ **Mises à jour servies par factspeed.com** — téléchargements plus rapides |
+| **10.14.38** | 🖥 **Fenêtre réduite** : plus aucun texte écrasé ni chevauchement |
 | **10.14.29** | 🔐 **Anti-clonage renforcé** : une licence copiée vers un autre PC est bloquée immédiatement |
 
 📖 Historique complet : [installateurs & notes de version](https://github.com/FactSpeed/factspeed-releases/releases)
