@@ -13,7 +13,7 @@
 
   <br />
 
-  ![Version](https://img.shields.io/badge/version-10.14.44-2F5FE0)
+  ![Version](https://img.shields.io/badge/version-10.14.45-2F5FE0)
   ![Plateformes](https://img.shields.io/badge/Windows%2010%2B-macOS%2012%2B-111827)
   ![Langues](https://img.shields.io/badge/Français-العربية%20RTL-00B27A)
   ![Données](https://img.shields.io/badge/100%20%25%20local-sans%20cloud-003B57)
